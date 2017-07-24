@@ -2,7 +2,7 @@
 
 }
 .footer {
-  margin-top: 150px;
+  margin-top: 200px;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
@@ -35,6 +35,12 @@ h4 {
 	padding: 15px;
 	position: relative;
 	bottom: 90px;
+}
+h5 {
+	font-size: 18px;
+}
+.btn {
 	
+	color: #4aaaa5;
 
 }
