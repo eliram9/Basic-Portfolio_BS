@@ -7,8 +7,34 @@
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
-  background-color: grey;
+  background-color: #666666;
   text-align: center;
   padding-top: 20px; 
   color: #000;
+}
+
+.first{
+	color: #4aaaa5;
+	font-family:  'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+}
+.name {
+	color: #4aaaa5;
+	font-family:  'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+	font-size: 24px;
+}
+.img{
+	display: inline-block;
+	text-align: center;
+}
+h4 {
+	background-color: #4aaaa5;
+	width: 100%;
+	color: white;
+	padding: 15px;
+	position: relative;
+	bottom: 90px;
+	
+
 }
