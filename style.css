@@ -1,0 +1,14 @@
+*{
+
+}
+.footer {
+  margin-top: 150px;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: grey;
+  text-align: center;
+  padding-top: 20px; 
+  color: #000;
+}
